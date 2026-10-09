@@ -2,7 +2,7 @@
 
 A playful, browser-based QR code studio that lets you create, customize, preview, and export QR codes — without needing a backend or an account.
 
-**[Live Demo](https://qr-code-generator-gamma-six.vercel.app/) · [GitHub Repository](https://github.com/aykayrocks/QR-Code-generator)**
+**[Live Demo](https://qr-code-generator-gamma-six.vercel.app/)**
 
 ## Overview
 
